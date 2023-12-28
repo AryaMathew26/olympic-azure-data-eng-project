@@ -1,6 +1,10 @@
 # olympic-azure-data-eng-project
 
-## Azure technologies used:
+## Introduction
+
+## Architecture
+
+## Technologies used:
 1. Azure Data Factory
 2. Data Lake Gen 2
 3. Azure Databricks
