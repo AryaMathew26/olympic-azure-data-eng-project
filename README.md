@@ -1,7 +1,5 @@
 # olympic-azure-data-eng-project
 
-## Introduction
-
 ## Architecture
 <img width="1439" alt="Screenshot 2023-12-28 at 13 58 04" src="https://github.com/AryaMathew26/olympic-azure-data-eng-project/assets/104437264/67548b4a-8ac0-495c-b101-e97fe18d6d63">
 
@@ -17,11 +15,10 @@
 <img width="787" alt="Screenshot 2023-12-28 at 14 06 22" src="https://github.com/AryaMathew26/olympic-azure-data-eng-project/assets/104437264/fcdf6ae3-6311-42e0-9e43-5c2f2e8dd0c3">
 
 ## Data Transformation
-
+<img width="1440" alt="Screenshot 2023-12-28 at 14 08 41" src="https://github.com/AryaMathew26/olympic-azure-data-eng-project/assets/104437264/e9aa63d3-0383-4037-97a5-3e122e8e12e3">
 
 ## Analytics
-
-## Data Storage
+<img width="1440" alt="Screenshot 2023-12-28 at 14 14 01" src="https://github.com/AryaMathew26/olympic-azure-data-eng-project/assets/104437264/44570f00-b909-46ee-a39b-1e437a730afc">
 
 ## Dataset used:
 https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo
