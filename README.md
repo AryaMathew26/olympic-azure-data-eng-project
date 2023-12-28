@@ -11,6 +11,8 @@
 4. Azure Databricks
 5. Synapse Analytics
 6. Power BI
+<img width="1440" alt="Screenshot 2023-12-28 at 13 23 49" src="https://github.com/AryaMathew26/olympic-azure-data-eng-project/assets/104437264/dbba93d8-5768-48ed-8e6a-3dded4e64001">
+
 
 ## Dataset used:
 https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo
