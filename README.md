@@ -6,10 +6,11 @@
 
 ## Technologies used:
 1. Azure Data Factory
-2. Data Lake Gen 2
-3. Azure Databricks
-4. Synapse Analytics
-5. Power BI
+2. Azure storage
+3. Data Lake Gen 2
+4. Azure Databricks
+5. Synapse Analytics
+6. Power BI
 
 ## Dataset used:
 https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo
