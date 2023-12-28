@@ -13,6 +13,15 @@
 5. Synapse Analytics
 <img width="1440" alt="Screenshot 2023-12-28 at 13 23 49" src="https://github.com/AryaMathew26/olympic-azure-data-eng-project/assets/104437264/dbba93d8-5768-48ed-8e6a-3dded4e64001">
 
+## Data Ingestion
+<img width="787" alt="Screenshot 2023-12-28 at 14 06 22" src="https://github.com/AryaMathew26/olympic-azure-data-eng-project/assets/104437264/fcdf6ae3-6311-42e0-9e43-5c2f2e8dd0c3">
+
+## Data Transformation
+
+
+## Analytics
+
+## Data Storage
 
 ## Dataset used:
 https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo
