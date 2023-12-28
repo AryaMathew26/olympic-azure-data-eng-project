@@ -3,6 +3,7 @@
 ## Introduction
 
 ## Architecture
+<img width="1439" alt="Screenshot 2023-12-28 at 13 58 04" src="https://github.com/AryaMathew26/olympic-azure-data-eng-project/assets/104437264/67548b4a-8ac0-495c-b101-e97fe18d6d63">
 
 ## Technologies used:
 1. Azure Data Factory
